@@ -1,5 +1,11 @@
 Welcome To My Github
 =====================
+country: korea
+gender: man
+age: secret
+
+
+
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmsqlctnekf@gmail.com)
 <!--
 **Csquid/Csquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
