@@ -1,7 +1,7 @@
 Welcome To My Github
 =====================
-country: korea  
-gender: man  
+🌎 country: korea  
+♀️ gender: man  
 age: secret  
 
 
