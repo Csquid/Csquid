@@ -1,8 +1,8 @@
 Welcome To My Github
 =====================
-#### 🌎 country: korea  
-#### 💻  gender: man  
-#### 🧭 age: secret  
+🌎 country: korea  
+💻  gender: man  
+🧭 age: secret  
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csquid)](https://github.com/anuraghazra/github-readme-stats)
 
