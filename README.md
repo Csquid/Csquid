@@ -7,19 +7,19 @@ Welcome To My Github
 Project
 -------------
 > PHP
-> > 2019/11/01 ~ 2019/12/?? https://github.com/Csquid/school_php_project (College small project)
+> > 2019/11/01 ~ 2019/12/?? https://github.com/Csquid/school_php_project (College small project) <br />
 
 > Spring
 > > 2019/10/05 ~ 2019/11/06 https://github.com/Csquid/Spring_Study_HomeWork (Toy Team Project) <br />
-> > 2019/12/08 ~ 2019/12/31 https://github.com/Csquid/2019_12_spring_study (Small Toy Project)
+> > 2019/12/08 ~ 2019/12/31 https://github.com/Csquid/2019_12_spring_study (Small Toy Project) <br />
 
 > Node.js
 > > 2020/02/08 ~ 2020/03/31 https://github.com/Csquid/Study_NodeJs (Node.js - simple user) <br />
-> > 2020/09/12 ~ https://github.com/Csquid/Isacc-organize-item-site <br /> (Node.js - isaac item information site)  --> http://isaac.cafe24app.com/
+> > 2020/09/12 ~ https://github.com/Csquid/Isacc-organize-item-site <br /> (Node.js - isaac item information site)  --> http://isaac.cafe24app.com/ <br />
 
 > React
-> > 2020/10/01 ~ 2020/10/02 https://github.com/Csquid/egoing-react/tree/master/tutorial (React - egoing teacher project)
-> > 2020/10/02 ~ 2020/10/04 https://github.com/Csquid/egoing-react/tree/master/practice (React - make a project by myself)
+> > 2020/10/01 ~ 2020/10/02 https://github.com/Csquid/egoing-react/tree/master/tutorial (React - egoing teacher project) <br />
+> > 2020/10/02 ~ 2020/10/04 https://github.com/Csquid/egoing-react/tree/master/practice (React - make a project by myself) <br />
 
 > PHP
 > > 2020/10/05 https://github.com/Csquid/study_php (PHP Basic Syntax)
