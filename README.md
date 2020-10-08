@@ -15,7 +15,7 @@ Project
 
 > Node.js
 > > 2020/02/08 ~ 2020/03/31 https://github.com/Csquid/Study_NodeJs (Node.js - simple user) <br />
-> > 2020/09/12 ~ https://github.com/Csquid/Isacc-organize-item-site (Node.js - isaac item information site)  --> http://isaac.cafe24app.com/
+> > 2020/09/12 ~ https://github.com/Csquid/Isacc-organize-item-site <br /> (Node.js - isaac item information site)  --> http://isaac.cafe24app.com/
 
 > PHP
 > > 2020/10/05 https://github.com/Csquid/study_php (PHP Basic Syntax)
