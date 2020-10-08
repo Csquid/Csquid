@@ -2,7 +2,7 @@ Welcome To My Github
 =====================
 🌎 country: korea  
 💻  gender: man  
-🧭 age: secret  
+🧭 age: 24  
 
 Project
 -------------
