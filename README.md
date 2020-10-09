@@ -35,7 +35,7 @@ My Git Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=csquid)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align=center>
+<div align=left>
   
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:dmsqlctnekf@gmail.com) 
 
